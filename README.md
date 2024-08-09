@@ -76,10 +76,7 @@ Sebuah aplikasi PyQt6 yang terintegrasi dengan library `pyollama` untuk menjalan
 - **run_model**: Menjalankan model yang dipilih menggunakan prompt dan gambar yang diunggah, lalu menampilkan hasilnya.
 - **reset**: Menghapus semua bidang input dan mengatur ulang aplikasi ke keadaan awal.
 
-## Kontribusi 🤝
+## Referensi 🤝
 
-Kontribusi sangat diterima! Jangan ragu untuk mengirimkan Pull Request.
-
-## Lisensi 📄
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
+Untuk informasi lebih lanjut dan panduan video, kamu bisa menonton video YouTube berikut:
+[referensi](https://youtu.be/8cg9jQHhQuc?si=668nS8k02SfY_6p2)
